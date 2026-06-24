@@ -1,5 +1,5 @@
 # 🖥️ Bryan Viana Da Silva
-**Estudante de Análise e Desenvolvimento de Sistemas** Me chamo Bryan, tenho 17 anos e sou de Guarulhos. Atualmente, estou estudando Desenvolvimento de Sistemas na Jardim Fortaleza II. 
+**Estudante de Análise e Desenvolvimento de Sistemas.** Me chamo Bryan, tenho 17 anos e sou de Guarulhos. Atualmente, estou estudando Desenvolvimento de Sistemas na Jardim Fortaleza II. 
 Sou apaixonado por tecnologia e busco sempre aprender coisas novas na área de Engenharia de Software, Segurança da Informação, Desenvolvimento Web.
 
 <p align="left">
